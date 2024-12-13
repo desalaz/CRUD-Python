@@ -1,4 +1,4 @@
-# CRUD-Python
+# CRUD Python&Tkinter alojado en MONGODB Atlas
 Se trata de un CRUD donde el cliente podra realizar las modificaciones a la base de datos de la base de datos llamada: tienda, y modificar las colección llamada: productos. alojado en MongoDbAtlas.  
 
 ## Funcionalidad de un CRUD   
